@@ -33,8 +33,10 @@ public class PrinterTest {
 
     @Test
     public void canRefillPaper() {
-        assertEquals(150, printer.refill());
-        assertEquals(100, emptyPrinter.refill());
+        printer.refill();
+        emptyPrinter.refill();
+        assertEquals(150, printer.getPaper());
+        assertEquals(100, emptyPrinter.getPaper());
     }
 
     @Test

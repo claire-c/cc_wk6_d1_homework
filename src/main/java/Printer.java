@@ -24,8 +24,8 @@ public class Printer {
         } else {}
     }
 
-    public int refill(){
-        return paper += 100;
+    public void refill(){
+        paper += 100;
     }
 
 
