@@ -19,6 +19,7 @@ public class Printer {
 
     public int print(int num1, int num2) {
         if (paper >= (num1 * num2)) {
+            toner -= (num1 * num2);
             return paper -= (num1 * num2);
         } else {
             return paper;
