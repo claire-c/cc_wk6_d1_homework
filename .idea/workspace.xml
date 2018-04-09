@@ -49,8 +49,8 @@
           <file leaf-file-name="WaterBottleTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/WaterBottleTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="375">
-                  <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+                <state relative-caret-position="435">
+                  <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="e#205#206#0" expanded="true" />
@@ -59,6 +59,8 @@
                     <element signature="e#357#358#0" expanded="true" />
                     <element signature="e#396#397#0" expanded="true" />
                     <element signature="e#449#450#0" expanded="true" />
+                    <element signature="e#488#489#0" expanded="true" />
+                    <element signature="e#540#541#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -90,8 +92,8 @@
           <file leaf-file-name="WaterBottle.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/WaterBottle.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="210">
-                  <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+                <state relative-caret-position="315">
+                  <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
                   <folding>
                     <element signature="e#153#154#0" expanded="true" />
                     <element signature="e#187#188#0" expanded="true" />
@@ -672,6 +674,9 @@
     <history-entry file="WaterBottleTest - 2018.04.09 at 17h 06m 09s.xml">
       <configuration name="WaterBottleTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="WaterBottleTest - 2018.04.09 at 17h 07m 52s.xml">
+      <configuration name="WaterBottleTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -754,8 +759,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/WaterBottle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
             <element signature="e#153#154#0" expanded="true" />
             <element signature="e#187#188#0" expanded="true" />
@@ -767,8 +772,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/WaterBottleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="435">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#205#206#0" expanded="true" />
@@ -777,6 +782,8 @@
             <element signature="e#357#358#0" expanded="true" />
             <element signature="e#396#397#0" expanded="true" />
             <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
           </folding>
         </state>
       </provider>
