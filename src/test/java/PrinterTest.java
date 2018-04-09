@@ -10,8 +10,8 @@ public class PrinterTest {
 
     @Before
     public void before(){
-        printer = new Printer(50);
-        emptyPrinter = new Printer(0);
+        printer = new Printer(50, 70);
+        emptyPrinter = new Printer(0, 25);
     }
 
     @Test
@@ -33,6 +33,12 @@ public class PrinterTest {
     public void canRefillPaper() {
         assertEquals(150, printer.refill());
         assertEquals(100, emptyPrinter.refill());
+    }
+
+    @Test
+    public void hasToner(){
+        assertEquals(70, printer.getToner());
+        assertEquals(25, emptyPrinter.getToner());
     }
 
 }
