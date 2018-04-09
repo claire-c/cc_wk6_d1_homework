@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="875850df-2400-41d7-bd4e-ebef41e3039f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Printer.java" afterPath="$PROJECT_DIR$/src/main/java/Printer.java" />
       <change beforePath="$PROJECT_DIR$/src/test/java/PrinterTest.java" afterPath="$PROJECT_DIR$/src/test/java/PrinterTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -71,9 +70,8 @@
           <file leaf-file-name="PrinterTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/PrinterTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="351">
-                  <caret line="50" column="2" lean-forward="false" selection-start-line="50" selection-start-column="2" selection-end-line="50" selection-end-column="2" />
-                  <caret line="49" column="2" lean-forward="false" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
+                <state relative-caret-position="366">
+                  <caret line="57" column="31" lean-forward="true" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="e#350#351#0" expanded="true" />
@@ -736,9 +734,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PrinterTest - 2018.04.09 at 20h 46m 44s.xml">
-      <configuration name="PrinterTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PrinterTest - 2018.04.09 at 20h 46m 50s.xml">
       <configuration name="PrinterTest" configurationId="JUnit" />
     </history-entry>
@@ -761,6 +756,9 @@
       <configuration name="PrinterTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="PrinterTest - 2018.04.09 at 21h 03m 37s.xml">
+      <configuration name="PrinterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrinterTest - 2018.04.09 at 21h 06m 20s.xml">
       <configuration name="PrinterTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="PrinterTest_hasPaper - 2018.04.09 at 20h 57m 35s.xml">
@@ -896,9 +894,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/PrinterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="50" column="2" lean-forward="false" selection-start-line="50" selection-start-column="2" selection-end-line="50" selection-end-column="2" />
-          <caret line="49" column="2" lean-forward="false" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
+        <state relative-caret-position="366">
+          <caret line="57" column="31" lean-forward="true" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#350#351#0" expanded="true" />
