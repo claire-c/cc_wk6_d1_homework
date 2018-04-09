@@ -21,12 +21,14 @@ public class PrinterTest {
 
     @Test
     public void hasEnoughPaperToPrint(){
-        assertEquals(30, printer.print(2, 10));
+        printer.print(2,10);
+        assertEquals(30, printer.getPaper());
     }
 
     @Test
     public void doesntHaveEnoughPaperToPrint(){
-        assertEquals(0,emptyPrinter.print(2,10));
+        emptyPrinter.print(2,10);
+        assertEquals(0,emptyPrinter.getPaper());
     }
 
     @Test

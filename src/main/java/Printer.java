@@ -17,13 +17,11 @@ public class Printer {
         return this.toner;
     }
 
-    public int print(int num1, int num2) {
+    public void print(int num1, int num2) {
         if (paper >= (num1 * num2)) {
             toner -= (num1 * num2);
-            return paper -= (num1 * num2);
-        } else {
-            return paper;
-        }
+            paper -= (num1 * num2);
+        } else {}
     }
 
     public int refill(){
