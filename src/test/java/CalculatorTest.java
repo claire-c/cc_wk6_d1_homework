@@ -28,4 +28,10 @@ public class CalculatorTest {
         assertEquals(9, calculator.multiply(3,3));
     }
 
+    @Test
+        public void canDivide(){
+        assertEquals(5, calculator.divide(10,2));
+    }
+
+
 }
